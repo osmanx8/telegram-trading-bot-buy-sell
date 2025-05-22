@@ -1,4 +1,0 @@
-# Ignore CSS & HTML files in this repository
-
-*.css linguist-detectable=false
-*.html linguist-detectable=false

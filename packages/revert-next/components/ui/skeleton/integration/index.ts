@@ -1,1 +1,0 @@
-export { ListRecentCallsSkeleton } from './ListRecentCallsSkeleton';
