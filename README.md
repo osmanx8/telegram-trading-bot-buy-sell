@@ -26,6 +26,7 @@ A simple and efficient Telegram bot for buying and selling tokens on Solana usin
 ## 💡 Usage
 
 You can interact with the bot using either buttons or commands:
+![image](https://github.com/user-attachments/assets/f1f26eb6-824a-4b9f-95fa-097129363c5a)
 
 ### Buttons
 - 📥 Buy Token - Opens buy interface
