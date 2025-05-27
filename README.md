@@ -1,4 +1,4 @@
-# Ultra Buy/Sell Telegram Bot
+# Ultra Buy/Sell Telegram Bot(Please give me star🌟☝☝☝☝☝)
 
 A simple and efficient Telegram bot for buying and selling tokens on Solana using Jupiter Aggregator.
 
@@ -32,6 +32,7 @@ You can interact with the bot using either buttons or commands:
 - 📤 Sell Token - Opens sell interface
 - 💰 Check Price - Shows current token prices
 - ❓ Help - Displays all available options
+![image](https://github.com/user-attachments/assets/1e100127-bb62-4e41-920b-4a7785316973)
 
 ### Commands
 - `/buy <token> <amount>` - Buy tokens
