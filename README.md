@@ -56,7 +56,7 @@ Check out our [Roadmap](ROADMAP.md) to see upcoming features and improvements.
 
 This project is simple for everyone. If you want any update or question, feel free to reach me out:
 
-- Telegram: [@cryptoking11060]
+- Telegram: [@cryptokingmax0]
 - Email: [cryptokingmax0@gmail.com]
 
 ## ⚖️ License
