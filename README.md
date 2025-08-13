@@ -1,4 +1,4 @@
-# Ultra Buy/Sell Telegram Bot
+# Telegram Trading Bot (Buy and Sell)
 
 A simple and efficient Telegram bot for buying and selling tokens on Solana using Jupiter Aggregator.
 
@@ -12,7 +12,7 @@ A simple and efficient Telegram bot for buying and selling tokens on Solana usin
 
 ## 📋 Prerequisites
 
-- Telegram account
+- Telegram account t.me/web3_maxim
 - Solana wallet (Phantom, Solflare, etc.)
 - Basic understanding of cryptocurrency trading
 
@@ -56,8 +56,8 @@ Check out our [Roadmap](ROADMAP.md) to see upcoming features and improvements.
 
 This project is simple for everyone. If you want any update or question, feel free to reach me out:
 
-- Telegram: [@cryptokingmax0]
-- Email: [cryptokingmax0@gmail.com]
+- Telegram: [@web3_maxim]
+- Email: [oxalphadev@gmail.com]
 
 ## ⚖️ License
 
